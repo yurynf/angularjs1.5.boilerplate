@@ -1,0 +1,35 @@
+### Windows ###
+**/Thumbs.db
+**/Desktop.ini
+**/*.lnk
+
+
+### JetBrains ###
+.idea/
+*.iws
+
+
+# Logs
+**/logs/
+**/*.log
+**/npm-debug.log*
+
+
+# Dependency directories
+**/node_modules/
+
+
+# npm cache directory
+**/.npm
+
+
+### Sass ###
+**/.sass-cache/
+
+
+### Grunt temp folder ###
+temp/
+
+
+### dist/ folder ###
+dist/

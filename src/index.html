@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="ajsbpApp">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0" />
+
+    <title>AngularJS 1.5 boilerplate</title>
+
+    <link rel="stylesheet" type="text/css" href="app/styles/main.css" />
+
+</head>
+<body>
+
+<div navigation-menu=""></div>
+
+<div ng-view></div>
+
+<!--appJsScripts:START-->
+<script type="application/javascript" src="lib/js/angular/angular.js"></script>
+<script type="application/javascript" src="lib/js/angular/angular-route.js"></script>
+<script type="application/javascript" src="app/js/app.js"></script>
+<script type="application/javascript" src="app/js/appConstants.js"></script>
+<script type="application/javascript" src="app/js/modules/routes/routes.js"></script>
+<script type="application/javascript" src="app/js/modules/common/directive.navigationMenu/directive.navigationMenu.js"></script>
+<script type="application/javascript" src="app/js/modules/home/ctrlHome.js"></script>
+<script type="application/javascript" src="app/js/modules/about/ctrlAbout.js"></script>
+<script type="application/javascript" src="app/js/modules/notFound/ctrlNotFound.js"></script>
+<!--appJsScripts:END-->
+
+</body>
+</html>
