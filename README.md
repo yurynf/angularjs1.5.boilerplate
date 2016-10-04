@@ -14,7 +14,7 @@ A minimalist boilerplate for kick-starting [AngularJS 1.5.x](http://angularjs.or
 ## Steps to Start a New Project
 1. Clone the repository:
 ```sh
-$$ git clone git://github.com/
+$$ git clone git://github.com/yurynf/angularjs1.5.boilerplate.git
 ```
 
 2. Download the required dependencies:
