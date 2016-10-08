@@ -1,12 +1,12 @@
 {
   "name": "angularjs1.5.boilerplate",
-  "version": "1.0.0",
-  "description": "A boilerplate for ...",
+  "version": "0.1.0",
+  "description": "A minimalist boilerplate for kick-starting AngularJS 1.5.x projects.",
   "author": "Yury Naftaliev",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "myrepo"
+    "url": "git://github.com/yurynf/angularjs1.5.boilerplate.git"
   },
   "keywords": [
     "angularjs",
